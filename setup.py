@@ -17,7 +17,7 @@ setup(
     name='django_react_admin',
     version='0.1.1',
     description='Creates viewsets and serializers for models in your admin site to use with react-admin',
-    python_requires='==3.*,>=3.8.0',
+    python_requires='==3.*,>=3.7.0',
     project_urls={
         "homepage": "https://github.com/pawnhearts/django_react_admin"},
     author='ph',
